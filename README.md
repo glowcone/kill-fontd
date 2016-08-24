@@ -2,11 +2,11 @@
 Resets fontd, which sometimes takes up 95% of the CPU for no apparent reason on OSX.
 
 ## Installation
-Download [kill-fontd](https://raw.githubusercontent.com/recurza/kill-fontd/master/kill-fontd).
+Download [kill-fontd](https://raw.githubusercontent.com/recurza/kill-fontd/master/kill-fontd) (Right click > Save As... > Downloads).
 
 Open Terminal and type/paste this:
 ```bash
-cd ~/Downloads/kill-fontd
+cd ~/Downloads
 sudo chmod +x kill-fontd
 ```
 
