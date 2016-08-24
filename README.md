@@ -9,7 +9,7 @@ Resets fontd, which sometimes takes up 95% of the CPU for no apparent reason on 
 3. Open Terminal and type/paste this:
 ```bash
 cd ~/Downloads
-sudo chmod +x kill-fontd
+chmod +x kill-fontd
 ```
 
 You may want to use [crontab](https://help.ubuntu.com/community/CronHowto#Starting_to_Use_Cron) to run it automatically every so often. Remember to use the root crontab.
