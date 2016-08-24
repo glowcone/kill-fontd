@@ -3,6 +3,7 @@ Resets fontd, which sometimes takes up 95% of the CPU for no apparent reason on 
 
 ## Installation
 Download [kill-fontd](https://raw.githubusercontent.com/recurza/kill-fontd/master/kill-fontd).
+
 Open Terminal and type/paste this:
 ```bash
 cd ~/Downloads/kill-fontd

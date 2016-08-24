@@ -1,0 +1,6 @@
+sudo atsutil databases -remove
+pkill -9 fontd
+atsutil server -shutdown
+echo
+echo fontd is gone for now. It may come back. If that happens, make a sudo cron job that runs this script every so often.
+echo
